@@ -1,6 +1,8 @@
 ### Olá, eu sou o Igor Lima Charles,
-um Dev buscando melhorar cada dia mais as suas skills 🐱‍👤
+### um Dev buscando melhorar cada dia mais as suas skills 🐱‍👤
 
+
+<img src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id513544018?k=20&m=513544018&s=612x612&w=0&h=RGmXN_WJhDvq6Hiui1ypnCggPAokE_dDhFX0bmC6PsA=" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div align="center">
   <a href="https://github.com/igorlimacharles">
