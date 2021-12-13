@@ -1,4 +1,5 @@
-### Olá, eu sou o Igor Lima Charles 🐱‍👤, um Dev buscando melhorar cada dia mais as suas skills
+### Olá, eu sou o Igor Lima Charles,
+um Dev buscando melhorar cada dia mais as suas skills 🐱‍👤
 
 
 <div align="center">
